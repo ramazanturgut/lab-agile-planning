@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** Manager     
+ **I need** List of customers 
+ **So that** I can notify them of promotions
    
  ### Details and Assumptions
  * [document what you know]
